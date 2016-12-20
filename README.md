@@ -27,3 +27,12 @@ bin\cake calcs <startdate> <enddate>
 An example running the command can be seen below.
 ```sh
 bin\cake calcs 2016-01-01 2016-01-21
+
+License
+----
+
+MIT
+
+Author
+----
+Andre Dixon
