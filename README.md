@@ -3,11 +3,14 @@ A demo project created with CakePHP 3 as a way to demonstrate my coding ability.
 
 ##Features of this project
  - PHP
- - CakePHP 3
+ - SQLite
+ - PHP UnitTest
+ - JavaScript/jQuery
+ - jQuery UI
+ - Ajax
  - Bootstrap
  - CSS
- - JavaScript and jQuery
-
+ - HTML5
 
 ##CakePHP 3 Features
 By going to the home page, an UI is presented where the user is able to select a start and end date. 
@@ -24,4 +27,3 @@ bin\cake calcs <startdate> <enddate>
 An example running the command can be seen below.
 ```sh
 bin\cake calcs 2016-01-01 2016-01-21
-```
