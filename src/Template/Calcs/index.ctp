@@ -1,6 +1,5 @@
 <div id="content">
     <div class="row">
-
         <br />
 
         <div role="alert" class="alert alert-info">
